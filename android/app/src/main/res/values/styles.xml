@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/zyro_primary</item>
+        <item name="colorPrimaryContainer">@color/zyro_primary_container</item>
+        <item name="android:statusBarColor">@color/zyro_primary</item>
+    </style>
+</resources>
